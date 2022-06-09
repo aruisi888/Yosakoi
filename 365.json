@@ -1,6 +1,6 @@
 ﻿{
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider": "http://172.31.0.2:5244/d/365.jar",
+"spider": "https://raw.githubusercontent.com/aruisi888/Yosakoi/main/365.jar",
 "sites":[
 //{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)022/5/29更新接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
 {"key":"csp_biubiu_骚火电影","name":"🥒骚火电影(XB)022/5/29更新接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/骚火电影.json"},
