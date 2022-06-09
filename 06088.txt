@@ -1,5 +1,5 @@
 {
-"spider":"http://172.31.0.2:5244/d/0608.jar",
+"spider":"https://raw.githubusercontent.com/aruisi888/Yosakoi/main/0608.jar",
 
 "sites":[
 
