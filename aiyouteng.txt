@@ -1237,5 +1237,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "http://172.31.0.2:5244/d/aiyouteng.jar"
+    "spider": "https://raw.githubusercontent.com/aruisi888/Yosakoi/main/aiyouteng.jar"
 }
