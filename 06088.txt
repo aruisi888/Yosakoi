@@ -70,8 +70,7 @@ Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterab
 🔷
 骚火电影(XB)022/5/29更新接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/EXT/shdy.json"},
 {"key":"csp_biubiu_奇粹影院","name":"
-🍭
-奇粹影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/EXT/qcyy.json"},
+
 
 
 
