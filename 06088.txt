@@ -23,7 +23,7 @@
 厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_xpath_hdmoli","name":"
 🌈
-hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/EXT/hdmoli.json"},
+hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/EXT/hdmoli.json"},
 {"key":"buka_spider","name":"
 📒
 真不卡(SP)","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
@@ -35,10 +35,10 @@ hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filtera
 if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_xpath_huya","name":"
 🎽
-虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/EXT/hyzb.json"},
-{"key":"csp_biubiu_555资源","name":"
+虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/EXT/hyzb.json"},
+{"key":"csp_biubiu_555电影","name":"
 🎁
-555资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/EXT/555zy.json"},
+555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/EXT/555DY.json"},
 {"key":"csp_Cokemv","name":"
 📕
 Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -59,16 +59,16 @@ Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterab
 小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_biubiu_哔嘀影视","name":"
 📮
-哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/EXT/bdys.json"},
+哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/EXT/bdys.json"},
 {"key":"csp_xpath_dandanzan10","name":"
 🎲
-蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/EXT/ddz.json"},
+蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/EXT/ddz.json"},
 {"key":"csp_biubiu_影视工厂","name":"
 🎯
-影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/EXT/ysgc.json"},
+影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/EXT/ysgc.json"},
 {"key":"csp_biubiu_骚火电影","name":"
 🔷
-骚火电影(XB)022/5/29更新接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/EXT/shdy.json"},
+骚火电影(XB)022/5/29更新接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/EXT/shdy.json"},
 
 
 
