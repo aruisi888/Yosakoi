@@ -1,5 +1,5 @@
 {
-"spider":"https://aruisi888.github.io/0608.jarr",
+"spider":"https://aruisi888.github.io/0608.jar",
 
 "sites":[
 
